@@ -3,8 +3,8 @@
 ## Notes
 
 ### Links
-http://blueshifted.net/
-https://nextjs.org/
+* http://blueshifted.net/
+* https://nextjs.org/
 
 ### Layouts
 * root
